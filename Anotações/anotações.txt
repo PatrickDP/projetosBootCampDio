@@ -1,1 +1,0 @@
-- openssl sh1 {nome do repositorio}.{tipo de arquivo}: Gera uma hash de 40 digitos
