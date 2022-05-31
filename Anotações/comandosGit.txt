@@ -25,10 +25,7 @@ arquivos do repositório local ao repositório remoto;
 
 - git remote -v: Lista as lsitas de repositórios remotos cadastrados;
 
-- git push origin master: Empurra o repositório para o gitHub;
-- git pull origin master: Puxa o conteúdo do arquivo para o arquivo;
+- git push origin {nome da branch}: Empurra o repositório para o gitHub;
+- git pull origin {nome da branch}: Puxa o conteúdo do arquivo para o arquivo;
 
 - git clone {Link do Git Hub}: Clona um repositório
-
-------------------------------------------------------------------------------
-
