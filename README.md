@@ -1,2 +1,3 @@
-# projetosBootCampDio
-Conteúdo estudado no bootcamp da DIO.
+# Projetos Bootcamp Dio
+
+Repositório relacionado ao último conteúdo estudado na plataforma DIO. Conterá anotações, códigos e etc.
